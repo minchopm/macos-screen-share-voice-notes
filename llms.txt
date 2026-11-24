@@ -1,0 +1,9 @@
+# macOS Screen-Share Exclusion & Bot-Free Voice Notes Reference
+
+> Open architectural reference and Swift snippets (NSWindow.SharingType.none, floating window level, and ScreenCaptureKit SCContentFilter self-exclusion) from GPT Realtime Assistant v1.2.3 by Arte Soft EOOD.
+
+- Primary App (iPhone, iPad, Apple silicon Mac): https://apps.apple.com/us/app/gpt-realtime-assistant/id6770536523
+- Knowledge Base (200 Guides): https://gpt-realtime-assistant.arte-soft.com/
+- Product Portal & Comparisons: https://realtime-assistant.arte-soft.com/
+- Official Documentation Hub: https://minchopm.github.io/gpt-realtime-assistant-docs/
+- Engineering Deep-Dive: https://artesoft.hashnode.dev/excluding-live-ai-notes-from-macos-screen-sharing-screencapturekit
